@@ -2,7 +2,7 @@
 
 This is the official implementation for LACIE 
 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.21028-b31b1b.svg)](https://arxiv.org/abs/2405.21028)
 
 ### Authors: [Elias Stengel-Eskin](https://esteng.github.io), [Peter Hase](https://peterbhase.github.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
@@ -11,7 +11,7 @@ This is the official implementation for LACIE
 When answering questions, large language models (LLMs) can convey not only an answer to the question, but a level of confidence about the answer being correct. This includes explicit markers of confidence (e.g. giving a numeric confidence score) as well as implicit markers, like using an authoritative tone or elaborating with additional knowledge of a subject. For LLMs to be trustworthy sources of knowledge, the confidence they convey should match their actual expertise on a topic; however, this is currently not the case, with most models tending towards overconfidence. 
 To calibrate both implicit and explicit confidence markers, we introduce **LACIE**, a pragmatic, listener-aware finetuning method that directly models the listener, considering not only whether an answer is right, but whether it will be accepted by a listener. 
 
-Paper: [arxiv](todo)
+Paper: [arxiv](2405.21028)
 
 <img src="./assets/teaser.png" alt="teaser image" width="800"/>
 
