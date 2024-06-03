@@ -103,7 +103,7 @@ Please cite our paper if you use our models in your works:
 @article{stengeleskin2024listener,
   title={LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models},
   author={Stengel-Eskin, Elias and Hase, Peter and Bansal, Mohit}, 
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2405.21028},
   year={2024}
 }
 
